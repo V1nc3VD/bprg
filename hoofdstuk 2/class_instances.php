@@ -6,7 +6,7 @@ class Student {
 
 $student1 = new Student;
 $student2 = new Student;
-
+//geeft de class waar het object $student1 bij hoort
 echo get_class($student1) . "<br />";
 
 $class_names = ['Product', 'Student', 'student'];
