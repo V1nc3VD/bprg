@@ -35,7 +35,7 @@ $User2->nickname = 'Hankert';
 $User2->last_name = 'bakvet';
 $User2->subscription = 'gold';
 
-$Admin = new Admin 
+$Admin = new Admin;
 $Admin->first_name = 'Vince';
 $Admin->last_name = 'van Doorn';
 
